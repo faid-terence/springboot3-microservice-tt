@@ -1,0 +1,1 @@
+insert into t_inventory (sku_code, quantity) values ('sku-1', 100), ('sku-2', 200), ('sku-3', 300);
